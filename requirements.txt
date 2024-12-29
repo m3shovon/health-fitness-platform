@@ -1,0 +1,10 @@
+@nestjs/typeorm 
+typeorm 
+pg 
+class-validator 
+class-transformer 
+bcrypt 
+@nestjs/passport 
+passport 
+passport-jwt 
+@nestjs/jwt
